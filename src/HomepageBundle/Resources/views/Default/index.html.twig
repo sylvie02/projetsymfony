@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+{# commentaire twig #}
+{% block body %}
+<div>
+  Hello <strong>world</strong></br>
+  <a href="{{ path('article_homepage') }}">articles</a>
+  <a href="{{ path('article_create') }}">créer un article</a>
+</div>
+{% endblock %}

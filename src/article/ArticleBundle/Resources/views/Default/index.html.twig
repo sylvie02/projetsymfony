@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{# commentaire twig #}
+{% block body %}
+<div>
+  Page d'articles
+
+  {{ form_start(form) }}
+  {{ form_errors(form) }}
+  {{ form_rest(form) }}
+  {{ form_end(form) }}
+
+
+  {# le form start est indissociable du form end , form start declare la balise de form creer la methode #}
+  {# le form end creer la balise de fermeture #}
+  {# le form errors affiche tous les erreurs #}
+  {# le form rest affiche tous les champs de formulaire restant #}
+</div>
+{% endblock %}

@@ -1,0 +1,19 @@
+article_homepage:
+    path:     /
+    defaults: { _controller: ArticleBundle:Default:index }
+
+article_create:
+    path:     /create
+    defaults: { _controller: ArticleBundle:Default:create }
+
+article_read:
+    path:     /read
+    defaults: { _controller: ArticleBundle:Default:read }
+
+article_update:
+    path:     /update
+    defaults: { _controller: ArticleBundle:Default:update }
+
+article_delete:
+    path:     /delete
+    defaults: { _controller: ArticleBundle:Default:delete }

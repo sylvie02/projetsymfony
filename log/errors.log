@@ -1,0 +1,308 @@
+[Thu Aug 11 18:40:35.903669 2016] [:error] [pid 2857] [client 127.0.0.1:51946] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:40:35.903755 2016] [:error] [pid 2857] [client 127.0.0.1:51946] PHP Stack trace:
+[Thu Aug 11 18:40:35.903788 2016] [:error] [pid 2857] [client 127.0.0.1:51946] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:40:35.904072 2016] [:error] [pid 2857] [client 127.0.0.1:51946] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:40:35.904083 2016] [:error] [pid 2857] [client 127.0.0.1:51946] PHP Stack trace:
+[Thu Aug 11 18:40:35.904094 2016] [:error] [pid 2857] [client 127.0.0.1:51946] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:40:55.629029 2016] [:error] [pid 2887] [client 127.0.0.1:51948] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:40:55.629096 2016] [:error] [pid 2887] [client 127.0.0.1:51948] PHP Stack trace:
+[Thu Aug 11 18:40:55.629117 2016] [:error] [pid 2887] [client 127.0.0.1:51948] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:40:55.629380 2016] [:error] [pid 2887] [client 127.0.0.1:51948] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:40:55.629392 2016] [:error] [pid 2887] [client 127.0.0.1:51948] PHP Stack trace:
+[Thu Aug 11 18:40:55.629404 2016] [:error] [pid 2887] [client 127.0.0.1:51948] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:41:17.316417 2016] [:error] [pid 2890] [client 127.0.0.1:51952] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:41:17.316483 2016] [:error] [pid 2890] [client 127.0.0.1:51952] PHP Stack trace:
+[Thu Aug 11 18:41:17.316504 2016] [:error] [pid 2890] [client 127.0.0.1:51952] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:41:17.316766 2016] [:error] [pid 2890] [client 127.0.0.1:51952] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:41:17.316777 2016] [:error] [pid 2890] [client 127.0.0.1:51952] PHP Stack trace:
+[Thu Aug 11 18:41:17.316789 2016] [:error] [pid 2890] [client 127.0.0.1:51952] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:43:01.645434 2016] [:error] [pid 2857] [client 127.0.0.1:51957] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:43:01.645491 2016] [:error] [pid 2857] [client 127.0.0.1:51957] PHP Stack trace:
+[Thu Aug 11 18:43:01.645508 2016] [:error] [pid 2857] [client 127.0.0.1:51957] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:43:01.645548 2016] [:error] [pid 2857] [client 127.0.0.1:51957] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:43:01.645569 2016] [:error] [pid 2857] [client 127.0.0.1:51957] PHP Stack trace:
+[Thu Aug 11 18:43:01.645583 2016] [:error] [pid 2857] [client 127.0.0.1:51957] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:43:46.766044 2016] [:error] [pid 2887] [client 127.0.0.1:51961] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:43:46.766114 2016] [:error] [pid 2887] [client 127.0.0.1:51961] PHP Stack trace:
+[Thu Aug 11 18:43:46.766145 2016] [:error] [pid 2887] [client 127.0.0.1:51961] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 11 18:43:46.766199 2016] [:error] [pid 2887] [client 127.0.0.1:51961] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 11 18:43:46.766209 2016] [:error] [pid 2887] [client 127.0.0.1:51961] PHP Stack trace:
+[Thu Aug 11 18:43:46.766220 2016] [:error] [pid 2887] [client 127.0.0.1:51961] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Fri Aug 12 10:08:17.078259 2016] [:error] [pid 2890] [client 127.0.0.1:53031] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Fri Aug 12 10:08:17.078584 2016] [:error] [pid 2890] [client 127.0.0.1:53031] PHP Stack trace:
+[Fri Aug 12 10:08:17.078828 2016] [:error] [pid 2890] [client 127.0.0.1:53031] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Fri Aug 12 10:08:17.079145 2016] [:error] [pid 2890] [client 127.0.0.1:53031] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Fri Aug 12 10:08:17.079163 2016] [:error] [pid 2890] [client 127.0.0.1:53031] PHP Stack trace:
+[Fri Aug 12 10:08:17.079187 2016] [:error] [pid 2890] [client 127.0.0.1:53031] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 13:58:00.552206 2016] [:error] [pid 2887] [client 127.0.0.1:59066] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 13:58:00.552448 2016] [:error] [pid 2887] [client 127.0.0.1:59066] PHP Stack trace:
+[Tue Aug 16 13:58:00.552505 2016] [:error] [pid 2887] [client 127.0.0.1:59066] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 13:58:00.552758 2016] [:error] [pid 2887] [client 127.0.0.1:59066] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 13:58:00.552776 2016] [:error] [pid 2887] [client 127.0.0.1:59066] PHP Stack trace:
+[Tue Aug 16 13:58:00.552794 2016] [:error] [pid 2887] [client 127.0.0.1:59066] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 14:02:19.362744 2016] [:error] [pid 2890] [client 127.0.0.1:59196] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 14:02:19.362837 2016] [:error] [pid 2890] [client 127.0.0.1:59196] PHP Stack trace:
+[Tue Aug 16 14:02:19.362868 2016] [:error] [pid 2890] [client 127.0.0.1:59196] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 14:02:19.362941 2016] [:error] [pid 2890] [client 127.0.0.1:59196] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 14:02:19.362952 2016] [:error] [pid 2890] [client 127.0.0.1:59196] PHP Stack trace:
+[Tue Aug 16 14:02:19.362963 2016] [:error] [pid 2890] [client 127.0.0.1:59196] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 14:03:15.181729 2016] [:error] [pid 2886] [client 127.0.0.1:59201] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 14:03:15.181793 2016] [:error] [pid 2886] [client 127.0.0.1:59201] PHP Stack trace:
+[Tue Aug 16 14:03:15.181834 2016] [:error] [pid 2886] [client 127.0.0.1:59201] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 14:03:15.182212 2016] [:error] [pid 2886] [client 127.0.0.1:59201] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 14:03:15.182223 2016] [:error] [pid 2886] [client 127.0.0.1:59201] PHP Stack trace:
+[Tue Aug 16 14:03:15.182234 2016] [:error] [pid 2886] [client 127.0.0.1:59201] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 18:25:58.720464 2016] [:error] [pid 8124] [client 127.0.0.1:61419] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 18:25:58.720517 2016] [:error] [pid 8124] [client 127.0.0.1:61419] PHP Stack trace:
+[Tue Aug 16 18:25:58.720531 2016] [:error] [pid 8124] [client 127.0.0.1:61419] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Aug 16 18:25:58.720735 2016] [:error] [pid 8124] [client 127.0.0.1:61419] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Aug 16 18:25:58.720745 2016] [:error] [pid 8124] [client 127.0.0.1:61419] PHP Stack trace:
+[Tue Aug 16 18:25:58.720756 2016] [:error] [pid 8124] [client 127.0.0.1:61419] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Aug 17 18:28:31.594910 2016] [:error] [pid 3611] [client 127.0.0.1:57717] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Aug 17 18:28:31.595316 2016] [:error] [pid 3611] [client 127.0.0.1:57717] PHP Stack trace:
+[Wed Aug 17 18:28:31.595429 2016] [:error] [pid 3611] [client 127.0.0.1:57717] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Aug 17 18:28:31.595976 2016] [:error] [pid 3611] [client 127.0.0.1:57717] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Aug 17 18:28:31.595998 2016] [:error] [pid 3611] [client 127.0.0.1:57717] PHP Stack trace:
+[Wed Aug 17 18:28:31.596020 2016] [:error] [pid 3611] [client 127.0.0.1:57717] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 18 18:21:15.199628 2016] [:error] [pid 3646] [client 127.0.0.1:63374] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 18 18:21:15.199818 2016] [:error] [pid 3646] [client 127.0.0.1:63374] PHP Stack trace:
+[Thu Aug 18 18:21:15.199834 2016] [:error] [pid 3646] [client 127.0.0.1:63374] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 18 18:21:15.199871 2016] [:error] [pid 3646] [client 127.0.0.1:63374] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 18 18:21:15.199880 2016] [:error] [pid 3646] [client 127.0.0.1:63374] PHP Stack trace:
+[Thu Aug 18 18:21:15.199891 2016] [:error] [pid 3646] [client 127.0.0.1:63374] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 18 18:39:03.351907 2016] [:error] [pid 3968] [client 127.0.0.1:63447] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 18 18:39:03.351971 2016] [:error] [pid 3968] [client 127.0.0.1:63447] PHP Stack trace:
+[Thu Aug 18 18:39:03.351990 2016] [:error] [pid 3968] [client 127.0.0.1:63447] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Aug 18 18:39:03.352036 2016] [:error] [pid 3968] [client 127.0.0.1:63447] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Aug 18 18:39:03.352049 2016] [:error] [pid 3968] [client 127.0.0.1:63447] PHP Stack trace:
+[Thu Aug 18 18:39:03.352062 2016] [:error] [pid 3968] [client 127.0.0.1:63447] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Mon Aug 22 18:53:51.658775 2016] [:error] [pid 328] [client 127.0.0.1:57341] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Mon Aug 22 18:53:51.659012 2016] [:error] [pid 328] [client 127.0.0.1:57341] PHP Stack trace:
+[Mon Aug 22 18:53:51.659038 2016] [:error] [pid 328] [client 127.0.0.1:57341] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Mon Aug 22 18:53:51.659086 2016] [:error] [pid 328] [client 127.0.0.1:57341] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Mon Aug 22 18:53:51.659098 2016] [:error] [pid 328] [client 127.0.0.1:57341] PHP Stack trace:
+[Mon Aug 22 18:53:51.659112 2016] [:error] [pid 328] [client 127.0.0.1:57341] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Mon Aug 22 18:56:32.864176 2016] [:error] [pid 341] [client 127.0.0.1:57351] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Mon Aug 22 18:56:32.864226 2016] [:error] [pid 341] [client 127.0.0.1:57351] PHP Stack trace:
+[Mon Aug 22 18:56:32.864241 2016] [:error] [pid 341] [client 127.0.0.1:57351] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Mon Aug 22 18:56:32.864277 2016] [:error] [pid 341] [client 127.0.0.1:57351] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Mon Aug 22 18:56:32.864297 2016] [:error] [pid 341] [client 127.0.0.1:57351] PHP Stack trace:
+[Mon Aug 22 18:56:32.864308 2016] [:error] [pid 341] [client 127.0.0.1:57351] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Mon Aug 22 18:57:15.459881 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Mon Aug 22 18:57:15.459930 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Stack trace:
+[Mon Aug 22 18:57:15.459946 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Mon Aug 22 18:57:15.459982 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Mon Aug 22 18:57:15.459992 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Stack trace:
+[Mon Aug 22 18:57:15.460003 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Mon Aug 22 18:57:19.122991 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Mon Aug 22 18:57:19.123047 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Stack trace:, referer: http://projetsymfony.local/
+[Mon Aug 22 18:57:19.123064 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Mon Aug 22 18:57:19.123105 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Mon Aug 22 18:57:19.123117 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP Stack trace:, referer: http://projetsymfony.local/
+[Mon Aug 22 18:57:19.123130 2016] [:error] [pid 328] [client 127.0.0.1:57356] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Aug 24 15:08:15.382483 2016] [:error] [pid 8628] [client 127.0.0.1:50613] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Aug 24 15:08:15.388439 2016] [:error] [pid 8628] [client 127.0.0.1:50613] PHP Stack trace:
+[Wed Aug 24 15:08:15.388574 2016] [:error] [pid 8628] [client 127.0.0.1:50613] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Aug 24 15:08:15.389151 2016] [:error] [pid 8628] [client 127.0.0.1:50613] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Aug 24 15:08:15.389173 2016] [:error] [pid 8628] [client 127.0.0.1:50613] PHP Stack trace:
+[Wed Aug 24 15:08:15.389195 2016] [:error] [pid 8628] [client 127.0.0.1:50613] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Aug 24 15:08:21.484370 2016] [:error] [pid 8471] [client 127.0.0.1:50614] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Aug 24 15:08:21.484434 2016] [:error] [pid 8471] [client 127.0.0.1:50614] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Aug 24 15:08:21.484455 2016] [:error] [pid 8471] [client 127.0.0.1:50614] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Aug 24 15:08:21.484694 2016] [:error] [pid 8471] [client 127.0.0.1:50614] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Aug 24 15:08:21.484709 2016] [:error] [pid 8471] [client 127.0.0.1:50614] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Aug 24 15:08:21.484724 2016] [:error] [pid 8471] [client 127.0.0.1:50614] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Tue Sep 13 15:14:58.754182 2016] [:error] [pid 225] [client 127.0.0.1:64351] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 15:14:58.759036 2016] [:error] [pid 225] [client 127.0.0.1:64351] PHP Stack trace:
+[Tue Sep 13 15:14:58.759080 2016] [:error] [pid 225] [client 127.0.0.1:64351] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 15:14:58.759164 2016] [:error] [pid 225] [client 127.0.0.1:64351] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 15:14:58.759179 2016] [:error] [pid 225] [client 127.0.0.1:64351] PHP Stack trace:
+[Tue Sep 13 15:14:58.759195 2016] [:error] [pid 225] [client 127.0.0.1:64351] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 15:15:12.072144 2016] [:error] [pid 399] [client 127.0.0.1:64353] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Tue Sep 13 15:15:12.072202 2016] [:error] [pid 399] [client 127.0.0.1:64353] PHP Stack trace:, referer: http://projetsymfony.local/
+[Tue Sep 13 15:15:12.072220 2016] [:error] [pid 399] [client 127.0.0.1:64353] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Tue Sep 13 15:15:12.072263 2016] [:error] [pid 399] [client 127.0.0.1:64353] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Tue Sep 13 15:15:12.072274 2016] [:error] [pid 399] [client 127.0.0.1:64353] PHP Stack trace:, referer: http://projetsymfony.local/
+[Tue Sep 13 15:15:12.072287 2016] [:error] [pid 399] [client 127.0.0.1:64353] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Tue Sep 13 16:10:55.950314 2016] [:error] [pid 19655] [client 127.0.0.1:64906] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 16:10:55.950383 2016] [:error] [pid 19655] [client 127.0.0.1:64906] PHP Stack trace:
+[Tue Sep 13 16:10:55.950404 2016] [:error] [pid 19655] [client 127.0.0.1:64906] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 16:10:55.950585 2016] [:error] [pid 19655] [client 127.0.0.1:64906] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 16:10:55.950596 2016] [:error] [pid 19655] [client 127.0.0.1:64906] PHP Stack trace:
+[Tue Sep 13 16:10:55.950606 2016] [:error] [pid 19655] [client 127.0.0.1:64906] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 16:11:14.460592 2016] [:error] [pid 19728] [client 127.0.0.1:64908] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:14.460650 2016] [:error] [pid 19728] [client 127.0.0.1:64908] PHP Stack trace:, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:14.460683 2016] [:error] [pid 19728] [client 127.0.0.1:64908] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:14.461091 2016] [:error] [pid 19728] [client 127.0.0.1:64908] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:14.461108 2016] [:error] [pid 19728] [client 127.0.0.1:64908] PHP Stack trace:, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:14.461127 2016] [:error] [pid 19728] [client 127.0.0.1:64908] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:19.838151 2016] [:error] [pid 19661] [client 127.0.0.1:64909] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:19.838207 2016] [:error] [pid 19661] [client 127.0.0.1:64909] PHP Stack trace:, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:19.838232 2016] [:error] [pid 19661] [client 127.0.0.1:64909] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:19.838464 2016] [:error] [pid 19661] [client 127.0.0.1:64909] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:19.838476 2016] [:error] [pid 19661] [client 127.0.0.1:64909] PHP Stack trace:, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:19.838487 2016] [:error] [pid 19661] [client 127.0.0.1:64909] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Tue Sep 13 16:11:56.734526 2016] [:error] [pid 19727] [client 127.0.0.1:64911] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 16:11:56.734591 2016] [:error] [pid 19727] [client 127.0.0.1:64911] PHP Stack trace:
+[Tue Sep 13 16:11:56.734630 2016] [:error] [pid 19727] [client 127.0.0.1:64911] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 16:11:56.734906 2016] [:error] [pid 19727] [client 127.0.0.1:64911] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 16:11:56.734919 2016] [:error] [pid 19727] [client 127.0.0.1:64911] PHP Stack trace:
+[Tue Sep 13 16:11:56.734930 2016] [:error] [pid 19727] [client 127.0.0.1:64911] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 18:07:10.401638 2016] [:error] [pid 19831] [client 127.0.0.1:65436] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 18:07:10.401703 2016] [:error] [pid 19831] [client 127.0.0.1:65436] PHP Stack trace:
+[Tue Sep 13 18:07:10.401726 2016] [:error] [pid 19831] [client 127.0.0.1:65436] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 18:07:10.401987 2016] [:error] [pid 19831] [client 127.0.0.1:65436] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 18:07:10.401998 2016] [:error] [pid 19831] [client 127.0.0.1:65436] PHP Stack trace:
+[Tue Sep 13 18:07:10.402010 2016] [:error] [pid 19831] [client 127.0.0.1:65436] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 18:07:16.055723 2016] [:error] [pid 19862] [client 127.0.0.1:65437] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 18:07:16.055779 2016] [:error] [pid 19862] [client 127.0.0.1:65437] PHP Stack trace:
+[Tue Sep 13 18:07:16.055802 2016] [:error] [pid 19862] [client 127.0.0.1:65437] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Tue Sep 13 18:07:16.055980 2016] [:error] [pid 19862] [client 127.0.0.1:65437] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Tue Sep 13 18:07:16.055990 2016] [:error] [pid 19862] [client 127.0.0.1:65437] PHP Stack trace:
+[Tue Sep 13 18:07:16.056001 2016] [:error] [pid 19862] [client 127.0.0.1:65437] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 10:23:22.985812 2016] [:error] [pid 19829] [client 127.0.0.1:55670] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 10:23:22.985879 2016] [:error] [pid 19829] [client 127.0.0.1:55670] PHP Stack trace:
+[Wed Sep 14 10:23:22.985897 2016] [:error] [pid 19829] [client 127.0.0.1:55670] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 10:23:22.985941 2016] [:error] [pid 19829] [client 127.0.0.1:55670] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 10:23:22.985951 2016] [:error] [pid 19829] [client 127.0.0.1:55670] PHP Stack trace:
+[Wed Sep 14 10:23:22.985964 2016] [:error] [pid 19829] [client 127.0.0.1:55670] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 10:27:31.035354 2016] [:error] [pid 19830] [client 127.0.0.1:55702] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 10:27:31.035408 2016] [:error] [pid 19830] [client 127.0.0.1:55702] PHP Stack trace:
+[Wed Sep 14 10:27:31.035425 2016] [:error] [pid 19830] [client 127.0.0.1:55702] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 10:27:31.035462 2016] [:error] [pid 19830] [client 127.0.0.1:55702] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 10:27:31.035472 2016] [:error] [pid 19830] [client 127.0.0.1:55702] PHP Stack trace:
+[Wed Sep 14 10:27:31.035483 2016] [:error] [pid 19830] [client 127.0.0.1:55702] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 12:08:25.755941 2016] [:error] [pid 22340] [client 127.0.0.1:57190] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 12:08:25.756017 2016] [:error] [pid 22340] [client 127.0.0.1:57190] PHP Stack trace:
+[Wed Sep 14 12:08:25.756046 2016] [:error] [pid 22340] [client 127.0.0.1:57190] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 12:08:25.756312 2016] [:error] [pid 22340] [client 127.0.0.1:57190] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 12:08:25.756323 2016] [:error] [pid 22340] [client 127.0.0.1:57190] PHP Stack trace:
+[Wed Sep 14 12:08:25.756334 2016] [:error] [pid 22340] [client 127.0.0.1:57190] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 12:08:26.035764 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 12:08:26.035821 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Stack trace:
+[Wed Sep 14 12:08:26.035854 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 12:08:26.036123 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 12:08:26.036134 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Stack trace:
+[Wed Sep 14 12:08:26.036146 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 12:08:29.075822 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 12:08:29.075907 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 12:08:29.075926 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Sep 14 12:08:29.075984 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 12:08:29.076020 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 12:08:29.076033 2016] [:error] [pid 22337] [client 127.0.0.1:57191] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Sep 14 13:20:13.440438 2016] [:error] [pid 22336] [client 127.0.0.1:57856] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 13:20:13.440504 2016] [:error] [pid 22336] [client 127.0.0.1:57856] PHP Stack trace:
+[Wed Sep 14 13:20:13.440532 2016] [:error] [pid 22336] [client 127.0.0.1:57856] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 13:20:13.440871 2016] [:error] [pid 22336] [client 127.0.0.1:57856] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 13:20:13.440886 2016] [:error] [pid 22336] [client 127.0.0.1:57856] PHP Stack trace:
+[Wed Sep 14 13:20:13.440901 2016] [:error] [pid 22336] [client 127.0.0.1:57856] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 13:42:32.325113 2016] [:error] [pid 22632] [client 127.0.0.1:58597] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 13:42:32.325180 2016] [:error] [pid 22632] [client 127.0.0.1:58597] PHP Stack trace:
+[Wed Sep 14 13:42:32.325210 2016] [:error] [pid 22632] [client 127.0.0.1:58597] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 13:42:32.325481 2016] [:error] [pid 22632] [client 127.0.0.1:58597] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 13:42:32.325492 2016] [:error] [pid 22632] [client 127.0.0.1:58597] PHP Stack trace:
+[Wed Sep 14 13:42:32.325504 2016] [:error] [pid 22632] [client 127.0.0.1:58597] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 23:26:41.000639 2016] [:error] [pid 23972] [client 127.0.0.1:62366] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 23:26:41.000714 2016] [:error] [pid 23972] [client 127.0.0.1:62366] PHP Stack trace:
+[Wed Sep 14 23:26:41.000748 2016] [:error] [pid 23972] [client 127.0.0.1:62366] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 23:26:41.001012 2016] [:error] [pid 23972] [client 127.0.0.1:62366] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Wed Sep 14 23:26:41.001024 2016] [:error] [pid 23972] [client 127.0.0.1:62366] PHP Stack trace:
+[Wed Sep 14 23:26:41.001035 2016] [:error] [pid 23972] [client 127.0.0.1:62366] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Wed Sep 14 23:26:54.019297 2016] [:error] [pid 23974] [client 127.0.0.1:62367] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:54.019392 2016] [:error] [pid 23974] [client 127.0.0.1:62367] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:54.019434 2016] [:error] [pid 23974] [client 127.0.0.1:62367] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:54.019801 2016] [:error] [pid 23974] [client 127.0.0.1:62367] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:54.019816 2016] [:error] [pid 23974] [client 127.0.0.1:62367] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:54.019834 2016] [:error] [pid 23974] [client 127.0.0.1:62367] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:58.156593 2016] [:error] [pid 22629] [client 127.0.0.1:62370] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:58.156650 2016] [:error] [pid 22629] [client 127.0.0.1:62370] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:58.156679 2016] [:error] [pid 22629] [client 127.0.0.1:62370] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:58.156716 2016] [:error] [pid 22629] [client 127.0.0.1:62370] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:58.156727 2016] [:error] [pid 22629] [client 127.0.0.1:62370] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 23:26:58.156738 2016] [:error] [pid 22629] [client 127.0.0.1:62370] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Sep 14 23:27:05.350596 2016] [:error] [pid 23968] [client 127.0.0.1:62371] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/articles/create
+[Wed Sep 14 23:27:05.350687 2016] [:error] [pid 23968] [client 127.0.0.1:62371] PHP Stack trace:, referer: http://projetsymfony.local/articles/create
+[Wed Sep 14 23:27:05.350718 2016] [:error] [pid 23968] [client 127.0.0.1:62371] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/articles/create
+[Wed Sep 14 23:27:05.351344 2016] [:error] [pid 23968] [client 127.0.0.1:62371] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/articles/create
+[Wed Sep 14 23:27:05.351365 2016] [:error] [pid 23968] [client 127.0.0.1:62371] PHP Stack trace:, referer: http://projetsymfony.local/articles/create
+[Wed Sep 14 23:27:05.351382 2016] [:error] [pid 23968] [client 127.0.0.1:62371] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/articles/create
+[Wed Sep 14 23:27:10.511790 2016] [:error] [pid 23971] [client 127.0.0.1:62372] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 23:27:10.511861 2016] [:error] [pid 23971] [client 127.0.0.1:62372] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 23:27:10.511882 2016] [:error] [pid 23971] [client 127.0.0.1:62372] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Wed Sep 14 23:27:10.512134 2016] [:error] [pid 23971] [client 127.0.0.1:62372] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Wed Sep 14 23:27:10.512146 2016] [:error] [pid 23971] [client 127.0.0.1:62372] PHP Stack trace:, referer: http://projetsymfony.local/
+[Wed Sep 14 23:27:10.512157 2016] [:error] [pid 23971] [client 127.0.0.1:62372] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Thu Sep 15 12:24:00.004394 2016] [:error] [pid 25192] [client 127.0.0.1:49459] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 12:24:00.004632 2016] [:error] [pid 25192] [client 127.0.0.1:49459] PHP Stack trace:
+[Thu Sep 15 12:24:00.004657 2016] [:error] [pid 25192] [client 127.0.0.1:49459] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 12:24:00.004930 2016] [:error] [pid 25192] [client 127.0.0.1:49459] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 12:24:00.004941 2016] [:error] [pid 25192] [client 127.0.0.1:49459] PHP Stack trace:
+[Thu Sep 15 12:24:00.004952 2016] [:error] [pid 25192] [client 127.0.0.1:49459] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 12:41:00.619037 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 12:41:00.619108 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Stack trace:
+[Thu Sep 15 12:41:00.619127 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 12:41:00.619379 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 12:41:00.619390 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Stack trace:
+[Thu Sep 15 12:41:00.619401 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 12:41:02.302814 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Thu Sep 15 12:41:02.302889 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Stack trace:, referer: http://projetsymfony.local/
+[Thu Sep 15 12:41:02.302912 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Thu Sep 15 12:41:02.302948 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Thu Sep 15 12:41:02.302969 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP Stack trace:, referer: http://projetsymfony.local/
+[Thu Sep 15 12:41:02.302979 2016] [:error] [pid 25321] [client 127.0.0.1:49692] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Thu Sep 15 17:34:59.600581 2016] [:error] [pid 25774] [client 127.0.0.1:50412] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 17:34:59.600658 2016] [:error] [pid 25774] [client 127.0.0.1:50412] PHP Stack trace:
+[Thu Sep 15 17:34:59.600691 2016] [:error] [pid 25774] [client 127.0.0.1:50412] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 17:34:59.600961 2016] [:error] [pid 25774] [client 127.0.0.1:50412] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 17:34:59.600974 2016] [:error] [pid 25774] [client 127.0.0.1:50412] PHP Stack trace:
+[Thu Sep 15 17:34:59.600985 2016] [:error] [pid 25774] [client 127.0.0.1:50412] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 17:38:45.660296 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 17:38:45.660368 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Stack trace:
+[Thu Sep 15 17:38:45.660401 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 17:38:45.660677 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 17:38:45.660689 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Stack trace:
+[Thu Sep 15 17:38:45.660701 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 17:38:49.910533 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Thu Sep 15 17:38:49.910587 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Stack trace:, referer: http://projetsymfony.local/
+[Thu Sep 15 17:38:49.910615 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Thu Sep 15 17:38:49.910653 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Thu Sep 15 17:38:49.911310 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP Stack trace:, referer: http://projetsymfony.local/
+[Thu Sep 15 17:38:49.911323 2016] [:error] [pid 25801] [client 127.0.0.1:50428] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Thu Sep 15 21:42:05.131836 2016] [:error] [pid 25793] [client 127.0.0.1:52237] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 21:42:05.131899 2016] [:error] [pid 25793] [client 127.0.0.1:52237] PHP Stack trace:
+[Thu Sep 15 21:42:05.131925 2016] [:error] [pid 25793] [client 127.0.0.1:52237] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 21:42:05.132164 2016] [:error] [pid 25793] [client 127.0.0.1:52237] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 21:42:05.132175 2016] [:error] [pid 25793] [client 127.0.0.1:52237] PHP Stack trace:
+[Thu Sep 15 21:42:05.132186 2016] [:error] [pid 25793] [client 127.0.0.1:52237] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 22:13:45.119950 2016] [:error] [pid 227] [client 127.0.0.1:49367] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 22:13:45.120208 2016] [:error] [pid 227] [client 127.0.0.1:49367] PHP Stack trace:
+[Thu Sep 15 22:13:45.120515 2016] [:error] [pid 227] [client 127.0.0.1:49367] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Thu Sep 15 22:13:45.120915 2016] [:error] [pid 227] [client 127.0.0.1:49367] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Thu Sep 15 22:13:45.120928 2016] [:error] [pid 227] [client 127.0.0.1:49367] PHP Stack trace:
+[Thu Sep 15 22:13:45.120941 2016] [:error] [pid 227] [client 127.0.0.1:49367] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Sat Sep 17 15:39:24.002235 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Sat Sep 17 15:39:24.002555 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Stack trace:
+[Sat Sep 17 15:39:24.002595 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Sat Sep 17 15:39:24.002664 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9
+[Sat Sep 17 15:39:24.002683 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Stack trace:
+[Sat Sep 17 15:39:24.002703 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0
+[Sat Sep 17 15:39:26.176985 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Warning:  include_once(/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Sat Sep 17 15:39:26.177087 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Stack trace:, referer: http://projetsymfony.local/
+[Sat Sep 17 15:39:26.177116 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Sat Sep 17 15:39:26.177181 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Warning:  include_once(): Failed opening '/Library/WebServer/Documents/ProjectSymfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/local/php5/lib/php') in /Library/WebServer/Documents/ProjectSymfony/web/app.php on line 9, referer: http://projetsymfony.local/
+[Sat Sep 17 15:39:26.177200 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP Stack trace:, referer: http://projetsymfony.local/
+[Sat Sep 17 15:39:26.177221 2016] [:error] [pid 435] [client 127.0.0.1:59439] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app.php:0, referer: http://projetsymfony.local/
+[Mon Sep 19 20:41:33.677803 2016] [:error] [pid 430] [client 127.0.0.1:57671] PHP Fatal error:  Class 'Symfony\\Bundle\\AsseticBundle\\AsseticBundle' not found in /Library/WebServer/Documents/ProjectSymfony/app/AppKernel.php on line 16
+[Mon Sep 19 20:41:33.677860 2016] [:error] [pid 430] [client 127.0.0.1:57671] PHP Stack trace:
+[Mon Sep 19 20:41:33.677875 2016] [:error] [pid 430] [client 127.0.0.1:57671] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app_dev.php:0
+[Mon Sep 19 20:41:33.677890 2016] [:error] [pid 430] [client 127.0.0.1:57671] PHP   2. Symfony\\Component\\HttpKernel\\Kernel->handle() /Library/WebServer/Documents/ProjectSymfony/web/app_dev.php:30
+[Mon Sep 19 20:41:33.677903 2016] [:error] [pid 430] [client 127.0.0.1:57671] PHP   3. Symfony\\Component\\HttpKernel\\Kernel->boot() /Library/WebServer/Documents/ProjectSymfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:166
+[Mon Sep 19 20:41:33.677917 2016] [:error] [pid 430] [client 127.0.0.1:57671] PHP   4. Symfony\\Component\\HttpKernel\\Kernel->initializeBundles() /Library/WebServer/Documents/ProjectSymfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:114
+[Mon Sep 19 20:41:33.677930 2016] [:error] [pid 430] [client 127.0.0.1:57671] PHP   5. AppKernel->registerBundles() /Library/WebServer/Documents/ProjectSymfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:396
+[Mon Sep 19 20:43:02.201767 2016] [:error] [pid 434] [client 127.0.0.1:57673] PHP Fatal error:  Class 'Symfony\\Bundle\\AsseticBundle\\AsseticBundle' not found in /Library/WebServer/Documents/ProjectSymfony/app/AppKernel.php on line 16
+[Mon Sep 19 20:43:02.201825 2016] [:error] [pid 434] [client 127.0.0.1:57673] PHP Stack trace:
+[Mon Sep 19 20:43:02.201839 2016] [:error] [pid 434] [client 127.0.0.1:57673] PHP   1. {main}() /Library/WebServer/Documents/ProjectSymfony/web/app_dev.php:0
+[Mon Sep 19 20:43:02.201853 2016] [:error] [pid 434] [client 127.0.0.1:57673] PHP   2. Symfony\\Component\\HttpKernel\\Kernel->handle() /Library/WebServer/Documents/ProjectSymfony/web/app_dev.php:30
+[Mon Sep 19 20:43:02.201865 2016] [:error] [pid 434] [client 127.0.0.1:57673] PHP   3. Symfony\\Component\\HttpKernel\\Kernel->boot() /Library/WebServer/Documents/ProjectSymfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:166
+[Mon Sep 19 20:43:02.201878 2016] [:error] [pid 434] [client 127.0.0.1:57673] PHP   4. Symfony\\Component\\HttpKernel\\Kernel->initializeBundles() /Library/WebServer/Documents/ProjectSymfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:114
+[Mon Sep 19 20:43:02.201890 2016] [:error] [pid 434] [client 127.0.0.1:57673] PHP   5. AppKernel->registerBundles() /Library/WebServer/Documents/ProjectSymfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:396

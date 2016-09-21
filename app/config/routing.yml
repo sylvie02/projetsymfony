@@ -1,0 +1,11 @@
+article:
+    resource: "@ArticleBundle/Resources/config/routing.yml"
+    prefix:   /articles
+
+homepage:
+    resource: "@HomepageBundle/Resources/config/routing.yml"
+    prefix:   /
+
+#app:
+#    resource: "@AppBundle/Controller/"
+#    type:     annotation
